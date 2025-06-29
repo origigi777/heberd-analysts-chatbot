@@ -63,3 +63,6 @@ uvicorn server:app --host 0.0.0.0 --port 8080
 * **Frontend**: Simple HTML/JavaScript interface to upload CSV and send questions
 * **Backend**: FastAPI server that processes the data, generates embeddings, and compares the user question to the dataset
 * **Embedding Model**: Uses a Hebrew-compatible model to vectorize questions and rows, comparing them via cosine similarity
+
+<img width="736" alt="image" src="https://github.com/user-attachments/assets/c6c14334-8bb6-4ff3-bd7b-d2096324b642" />
+
